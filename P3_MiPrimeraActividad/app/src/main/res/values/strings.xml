@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MiPrimeraActividad!</string>
+    <string name="app_name">MiPrimeraActividad</string>
+<string name="txtChoiceAbrirDialogo">Abrir Diálogo</string>
+<string name="txtChoiceAbrirActividad">Abrir &quot;Segunda&quot; Actividad</string>
+<string name="caption_segundaactividad">Segunda Actividad</string>
+</resources>

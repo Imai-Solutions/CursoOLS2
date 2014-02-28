@@ -1,0 +1,21 @@
+apply plugin: 'android'
+
+android {
+    compileSdkVersion 10
+    buildToolsVersion "19.0.2"
+
+    defaultConfig {
+        minSdkVersion -1
+        compileOptions {
+            sourceCompatibility JavaVersion.VERSION_1_5
+            targetCompatibility JavaVersion.VERSION_1_5
+        }
+    }
+
+    buildTypes {
+        release {
+            runProguard false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
