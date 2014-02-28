@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">P2_HolaMundo</string>
+    <string name="hola_mundo">Hola Mundo con RECURSOS!</string>
+    <string name="menu_settings">Configuración</string>
+    <string name="texto_boton">Pon el mensaje</string>
+    <string name="mensaje_recurso">Mensaje configurado en el recurso</string>
+</resources>

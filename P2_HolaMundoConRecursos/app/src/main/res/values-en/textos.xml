@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P2_HelloWorld</string>
+    <string name="hola_mundo">Hello World with Resources!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="texto_boton">Put the message</string>
+    <string name="mensaje_recurso">Message established into resource</string>
+</resources>
