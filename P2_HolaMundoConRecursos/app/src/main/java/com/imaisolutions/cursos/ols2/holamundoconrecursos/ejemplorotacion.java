@@ -23,6 +23,9 @@ public class ejemplorotacion extends Activity {
 		imgview=(ImageView)this.findViewById(R.id.imgarotar);
 		Log.i("MIAPP","ESTO ES UN EJEMPLO DE GRABAR EN LOG");
 		// Definimos el evento
+
+        // CAMBIOS DE HOY.. (PRUEBA)
+
 		btn.setOnClickListener(
 				new OnClickListener(){
 
